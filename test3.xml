@@ -2,5 +2,6 @@
 <Response>
     <Say voice="alice">This is an automated message from Genworth Financial</Say>
     <Pause length="5"></Pause>    
-    <Say voice="alice">Your claim ha sbeen approved.</Say>    
+    <Say voice="alice">Your payment is currently being processed and payment is scheduled to 
+        go out on July 22nd</Say>    
 </Response>
