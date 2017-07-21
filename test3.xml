@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice">This is an automated message from Genworth Financial></Say><pause length="2"/>
+    <Say voice="alice">This is an automated message from Genworth Financial></Say>
+    <Pause length="2"/>
     <Say voice="alice">Your payment is currently being processed and payment is scheduled to 
-        go out on August 15th.</Say>
-    <Record maxLength="20" />
+        go out on August 15th.</Say>    
 </Response>
