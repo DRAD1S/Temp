@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="woman">This is an automated message from Genowrth Financial.Your payment is currently being processed and payment is scheduled to 
+    <Say voice="woman">This is an automated message from Genworth Financial.Your payment is currently being processed and payment is scheduled to 
         go out on August 15th.</Say>
     <Record maxLength="20" />
 </Response>
