@@ -1,5 +1,5 @@
 <Response>
-<Say voice="alice">
+<Say>
 Thanks for the call. Configure your number's voice U R L to change this message.
 </Say>
 <Pause length="1"/>
